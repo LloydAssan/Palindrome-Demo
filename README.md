@@ -1,4 +1,7 @@
-![21 Savage](public/21savage.jpg)
+# This is an application that enables the user to enter any word and have it respond with whether is it the same spelled backwards and if that is the cause it confirms with "true" or "false".
+
+
+![img](palindromeSS.png)
 
 ## Installation
 
