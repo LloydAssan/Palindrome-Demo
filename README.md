@@ -3,6 +3,9 @@
 
 ![img](palindromeSS.png)
 
+## Programs Used
+JavaScript, Node JS, CSS, HTML, MongoDB
+
 ## Installation
 
 1. Clone repo
@@ -12,3 +15,5 @@
 
 1. run `npm run savage`
 2. Navigate to `localhost:3000`
+
+
